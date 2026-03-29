@@ -1,0 +1,8 @@
+{
+  "domains": [
+    "example.com"
+  ],
+  "urls": [
+    "http://httpbin.org/status/418"
+  ]
+}
